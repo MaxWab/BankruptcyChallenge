@@ -7,7 +7,7 @@ We do not include all the data exploration and intermediary steps that we made i
 
 ## Model description
 
-![alt text](https://raw.githubusercontent.com/MaxWab/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/MaxWab/BankruptcyChallenge/master/algorithm_presentation.png)
 
 
 ## Getting Started
